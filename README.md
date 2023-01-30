@@ -1,9 +1,7 @@
  ## 📖 Description
 
- #### Note taker is application where users can stored their notes.
- #### user-friendly interface, note taker provides multiples functionaly 
- #### such as post save and delete.
-
+ #### This is the Work Day Scheduler. Here the users can add and save notes in the time block.
+ 
  ![Screenshot 2023-01-29 at 11 00 27 PM](https://user-images.githubusercontent.com/77306236/215385074-ca530edf-d3f3-46a2-b09a-5627b77bcc2f.png)
 
   ## Table of Contents
@@ -21,8 +19,8 @@
 ###### HTML, CSS, JQUERY, JAVASCRIPT
 
 ## Usage
-#### Check the deployed aplication at:
-#### Or by visiting:  
+#### Check the deployed aplication at: https://americanoame.github.io/work-day-scheduler/
+#### Or by visiting: https://github.com/americanoame/work-day-scheduler 
 
 
 ## ⚖️ License
